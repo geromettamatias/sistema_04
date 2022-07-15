@@ -1,0 +1,5 @@
+sistemaEET16\elementos\email\bd
+sistemaEET16\login\modulos\bd
+sistemaEET16\personal\modulos\bd
+sistemaEET16\personal_docente\modulos\bd
+sistemaEET16\personal_estudiante\modulos\bd
